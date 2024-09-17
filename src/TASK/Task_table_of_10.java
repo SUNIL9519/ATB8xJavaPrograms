@@ -1,4 +1,4 @@
-package sept.ex_13092024;
+package TASK;
 
 public class Task_table_of_10 {
 
