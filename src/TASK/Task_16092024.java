@@ -44,15 +44,17 @@ public class Task_16092024 {
 
         byte b = 10;
         byte c = 10;
-        System.out.println(b+c); // 20
+        int d = b + c;
+        System.out.println(d); // 20
         // it will give result in int datatype
 
+        String s = "name"; // 8 Bytes, 64 bits
 
     // 4.
 
       short S = 10;
-      char C = 'A'; // the Unicode of A is 65
-      int ss = S+C;
+      char C = 'A'; // the ASCII value of A is 65
+      int ss = S + C; // Only concatenation leads to int data type
       System.out.println(ss); // 75
 
     }
