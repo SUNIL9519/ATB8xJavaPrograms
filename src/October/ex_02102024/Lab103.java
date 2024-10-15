@@ -1,8 +1,7 @@
-package October;
-
-import java.util.Scanner;
+package October.ex_02102024;
 
 public class Lab103 {
+
     public static void main(String[] args) {
 
         ATBStudent Sunil = new ATBStudent(); // Sunil is reference variable -> 8byte, 64 bits, default value is null
@@ -18,3 +17,4 @@ public class Lab103 {
 
     }
 }
+
